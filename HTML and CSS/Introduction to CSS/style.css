@@ -1,0 +1,18 @@
+* {
+    color: purple;
+}
+
+div {
+    color: red;
+}
+
+.alert-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title {
+    background-color: red;
+    color: white;
+}
