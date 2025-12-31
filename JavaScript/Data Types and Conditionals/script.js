@@ -9,3 +9,10 @@ console.log(name);
 // Boolean Data Types
 let isAdult = true;
 console.log(isAdult);
+
+// Object Data Types
+let user = {
+    name: "Aarush",
+    age: 21
+};
+console.log(user.age);
