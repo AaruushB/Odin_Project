@@ -6,3 +6,6 @@ console.log(n);
 let username = "Aaryan";
 console.log(name);
 
+// Boolean Data Types
+let isAdult = true;
+console.log(isAdult);
