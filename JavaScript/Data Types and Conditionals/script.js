@@ -4,7 +4,7 @@ console.log(n);
 
 // String Data Types
 let food = "Pizza";
-console.log(name);
+console.log(food);
 
 // Boolean Data Types
 let isAdult = true;
@@ -29,7 +29,7 @@ let greet = (name) => {
 console.log(greet("Aaryan"));
 
 // undefined Data Type
-let a;
+let a = undefined;
 console.log(a);
 
 // null Data Type
