@@ -23,7 +23,7 @@ console.log(arr);
 
 // Function Data Types
 let greet = (name) => {
-    console.log(`Hello ${name}!`);
+    return `Hello ${name}!`;
 }
 
-console.log(greet);
+console.log(greet("Aaryan"));
