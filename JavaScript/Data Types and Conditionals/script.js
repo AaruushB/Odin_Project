@@ -27,3 +27,11 @@ let greet = (name) => {
 }
 
 console.log(greet("Aaryan"));
+
+// undefined Data Type
+let a;
+console.log(a);
+
+// null Data Type
+b = null
+console.log(b);
